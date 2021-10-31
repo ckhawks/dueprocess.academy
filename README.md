@@ -1,4 +1,6 @@
 # dueprocess.academy
-New Player Guide for alpha game Due Process
+New player guide for indie attack-and-defense game Due Process. Originally started for a class assignment.
 
-Using Bootstrap 4
+# Built with...
+
+- Bootstrap 4
